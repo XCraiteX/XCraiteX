@@ -1,5 +1,5 @@
-### 🎯 Targets
-I really want to make world better 🥰
+## 🎯 Targets
+**I really want to make world better 🥰**
 
 ## 💢 Languages:
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -13,7 +13,7 @@ I really want to make world better 🥰
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📚 Другие навыки:
+
 | Язык        | Описание                        |
 |-------------|---------------------------------|
 | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Разметка веб-страниц                 |
