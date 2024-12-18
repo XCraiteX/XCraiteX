@@ -2,7 +2,7 @@
 < 18 y.o
 
 ### 🎯 Targets
-##### I really want to make world better 🥰
+I really want to make world better 🥰
 
 ### 🌹 Hobbies
 - Games Developing
