@@ -5,7 +5,7 @@
 I really want to make world better 🥰
 
 ### 🌹 Hobbies
-- Games Developing
+- Games Development
 - Writing Websites
 - Creating Telegram bots
 - Creating Discord bots
