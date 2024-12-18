@@ -13,6 +13,11 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 🔥 Frameworks
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 | Язык        | Описание                        |
 |-------------|---------------------------------|
@@ -28,8 +33,4 @@
 - Writing Poems & Books
 - Writing Usefull programs
 
-### 🔥 Frameworks
-- FastAPI  | py
-- NEXT     | js
-- React    | js
-- Tailwind | css
+
