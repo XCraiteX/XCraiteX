@@ -4,17 +4,9 @@ I really want to make world better 🥰
 ### 🌹 Hobbies
 - Games Development
 - Writing Websites & Web-Apps
-- Creating Telegram bots
-- Creating Discord bots
-- Writing Viruses
+- Creating Tg & Ds bots
 - Writing Poems & Books
-- Writing usefull programs
-
-|--|
-|🎯 Targets|I really want to make world better 🥰|
-|💢 Languages|Python|Rust|C#|Html|Css&Scss|JS & TS|Ahk|SQL|
-
-
+- Writing Usefull programs
 
 ### 💢 Languages
 - Python
@@ -28,11 +20,6 @@ I really want to make world better 🥰
 
 ### 🔥 Frameworks
 - FastAPI  | py
-- Django   | py
 - NEXT     | js
 - React    | js
 - Tailwind | css
-
-### 📌 Databases
-- PostgreSQL
-- SQLite
