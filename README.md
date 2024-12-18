@@ -1,4 +1,4 @@
-## 🌹 Hobbies  
+## Hobbies  
 - 🎮 **Game Development**  
 - 🌐 **Writing Websites & Web Apps**  
 - 🤖 **Creating Telegram & Discord Bots**  
@@ -6,7 +6,7 @@
 - 🦠 **Viruses Development**
 - 🖋️ **Writing Poems & Books** 
 
-## 💢 Languages:
+## Languages:
 ![C#](https://img.shields.io/badge/-C%23-8A2BE2?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -18,7 +18,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ㅤ
-## 🔥 Frameworks
+## Frameworks
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
