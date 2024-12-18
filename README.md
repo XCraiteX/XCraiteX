@@ -10,6 +10,11 @@ I really want to make world better 🥰
 - Writing Poems & Books
 - Writing usefull programs
 
+| 🎯 Targets | I really want to make world better 🥰 |
+| 💢 Languages | Python | Rust | C# | Html | Css & Scss | JS & TS | Ahk | SQL |
+
+
+
 ### 💢 Languages
 - Python
 - Rust
