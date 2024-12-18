@@ -1,17 +1,13 @@
-### 👋 CraiteX from REDLITE
-< 18 y.o
-
 ### 🎯 Targets
 I really want to make world better 🥰
 
 ### 🌹 Hobbies
 - Games Development
-- Writing Websites
+- Writing Websites & Web-Apps
 - Creating Telegram bots
 - Creating Discord bots
 - Writing Viruses
-- Writing Web-Apps
-- Writing Poems and Books
+- Writing Poems & Books
 - Writing usefull programs
 
 ### 💢 Languages
@@ -34,9 +30,3 @@ I really want to make world better 🥰
 ### 📌 Databases
 - PostgreSQL
 - SQLite
-
-### 💠 IDE's
-- Microsoft Visual Studio
-- Visual Studio Code
-- PyCharm
-- RustRover
