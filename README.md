@@ -28,16 +28,6 @@
 - Writing Poems & Books
 - Writing Usefull programs
 
-### 💢 Languages
-- Python
-- Rust
-- C#
-- Html
-- Css/Scss/Sass
-- JavaScript/TypeScript
-- AutoHotKey
-- SQL
-
 ### 🔥 Frameworks
 - FastAPI  | py
 - NEXT     | js
