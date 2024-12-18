@@ -6,12 +6,13 @@ I really want to make world better 🥰
 
 ### 🌹 Hobbies
 - Games Developing
-- Writing websites
+- Writing Websites
 - Creating Telegram bots
 - Creating Discord bots
-- Writing viruses
+- Writing Viruses
 - Writing Web-Apps
-- Writing poems and books
+- Writing Poems and Books
+- Writing usefull programs
 
 ### 💢 Languages
 - Python
@@ -21,6 +22,7 @@ I really want to make world better 🥰
 - Css/Scss/Sass
 - JavaScript/TypeScript
 - AutoHotKey
+- SQL
 
 ### 🔥 Frameworks
 - FastAPI  | py
