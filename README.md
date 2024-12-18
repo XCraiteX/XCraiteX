@@ -1,4 +1,4 @@
-### CraiteX from REDLITE)
+### CraiteX from REDLITE
 < 18 y.o
 
 ### 🎯 Targets
