@@ -34,3 +34,9 @@ I really want to make world better 🥰
 ### 📌 Databases
 - PostgreSQL
 - SQLite
+
+### 💠 IDE's
+- Microsoft Visual Studio
+- Visual Studio Code
+- PyCharm
+- RustRover
