@@ -1,7 +1,3 @@
-## 🎯 Targets
-**𝐈 𝐫𝐞𝐚𝐥𝐥𝐲 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐦𝐚𝐤𝐞 𝐰𝐨𝐫𝐥𝐝 𝐛𝐞𝐭𝐭𝐞𝐫 🥰**
-
-ㅤ
 ## 💢 Languages:
 ![C#](https://img.shields.io/badge/-C%23-8A2BE2?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,13 +16,5 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-ㅤ
-### 🌹 Hobbies
-- Games Development
-- Writing Websites & Web-Apps
-- Creating Tg & Ds bots
-- Writing Poems & Books
-- Writing Usefull programs
 
 
