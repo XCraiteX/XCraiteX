@@ -18,7 +18,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![AutoHotkey](https://img.shields.io/badge/-AutoHotkey-334455?style=for-the-badge&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ㅤ
 ## Frameworks
