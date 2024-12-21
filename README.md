@@ -28,6 +28,3 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Motion](https://img.shields.io/badge/-Motion-FFD700?style=for-the-badge&labelColor=FFD700&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiBmaWxsPSJub25lIj4KICA8cmVjdCB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIGZpbGw9IiNGRkQ3MDAiIHJ4PSIzIi8+CiAgPHRleHQgeD0iMTEiIHk9IjIyIiBmaWxsPSIjMDAwMDAwIiBmb250LXNpemU9IjE4IiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zdHlsZT0iaXRhbGljIj5tPC90ZXh0Pgo8L3N2Zz4=)
-
-
-<img src="https://redlite.ru/members/CraiteX.jpg" alt="Motion Logo" width="50">
