@@ -28,3 +28,5 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Motion](https://img.shields.io/badge/-Motion-FB0091?style=for-the-badge&logo=framer&logoColor=white)
+![Motion](https://img.shields.io/badge/-Motion-000000?style=for-the-badge&logo=motion&logoColor=white)
+
