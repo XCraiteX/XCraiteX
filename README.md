@@ -28,8 +28,8 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Motion](https://img.shields.io/badge/-Motion-FB0091?style=for-the-badge&logo=framer&logoColor=white)
-![Motion](https://img.shields.io/badge/-Motion-FFD700?style=for-the-badge&labelColor=FFD700&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu%20%20%20b3JnLzIwMDAvc3ZnIj4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIGZpbGw9IiNGRkQ3MDAiIHJ4PSIzIi8%20%20%20+CgogIDx0ZXh0IHg9IjE2IiB5PSIyMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiIHN0eWxlPSJmb250LXNpemU6%20%20%20MjRweDtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5Om1vbm9zcGFjZTtsaW5lLWhlaWdodDoxIj5tPC90ZXh0Pgo8L3N2Zz4K)
-
 ![Motion](https://img.shields.io/badge/-Motion-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![Motion](https://img.shields.io/badge/-Motion-FFD700?style=for-the-badge&labelColor=FFD700&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiBmaWxsPSJub25lIj4KICA8cmVjdCB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIGZpbGw9IiNGRkQ3MDAiIHJ4PSIzIi8+CiAgPHRleHQgeD0iMTEiIHk9IjIyIiBmaWxsPSIjMDAwMDAwIiBmb250LXNpemU9IjE4IiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zdHlsZT0iaXRhbGljIj5tPC90ZXh0Pgo8L3N2Zz4=)
+
 
 
