@@ -7,7 +7,7 @@
 - 🖋️ **Writing Poems & Books** 
 
 ## Languages:
-<img src='https://redlite.ru/cards/html.png'>
+<img src='https://redlite.ru/sources/cards/motion.png'>
 ㅤ
 ## Frameworks
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
