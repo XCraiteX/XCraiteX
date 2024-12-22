@@ -22,6 +22,7 @@
 <p align='left'>
   <img src='https://redlite.ru/sources/cards/js1.png'>
   <img src='https://redlite.ru/sources/cards/ts1.png'>
+  <img src='https://redlite.ru/sources/cards/sql1.png'>
 </p>
 
 ㅤ
