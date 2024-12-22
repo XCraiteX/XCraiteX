@@ -7,9 +7,9 @@
 - 🖋️ **Writing Poems & Books** 
 
 ## Languages:
-<img src='https://redlite.ru/sources/cards/cs.png'>
-<img src='https://redlite.ru/sources/cards/py.png'>
-<img src='https://redlite.ru/sources/cards/rs.png'>
+<img src='https://redlite.ru/sources/cards/cs.png' width='210px'>
+<img src='https://redlite.ru/sources/cards/py.png' width='210px'>
+<img src='https://redlite.ru/sources/cards/rs.png' width='210px'>
 
 
 ㅤ
