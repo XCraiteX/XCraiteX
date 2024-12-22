@@ -8,11 +8,18 @@
 
 ## Languages:
 <p align='left'>
-<img src='https://redlite.ru/sources/cards/cs.png'>
-<img src='https://redlite.ru/sources/cards/py.png'>
-<img src='https://redlite.ru/sources/cards/rs.png'>
+  <img src='https://redlite.ru/sources/cards/cs.png'>
+  <img src='https://redlite.ru/sources/cards/py.png'>
+  <img src='https://redlite.ru/sources/cards/rs.png'>
 </p>
 
+<p align='left'>
+  <img src='https://redlite.ru/sources/cards/html.png'>
+  <img src='https://redlite.ru/sources/cards/css.png'>
+  <img src='https://redlite.ru/sources/cards/scss.png'>
+  <img src='https://redlite.ru/sources/cards/js'>
+  <img src='https://redlite.ru/sources/cards/ts.png'>
+</p>
 
 ㅤ
 ## Frameworks
