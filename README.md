@@ -17,7 +17,7 @@
   <img src='https://redlite.ru/sources/cards/html.png'>
   <img src='https://redlite.ru/sources/cards/css.png'>
   <img src='https://redlite.ru/sources/cards/scss.png'>
-  <img src='https://redlite.ru/sources/cards/js'>
+  <img src='https://redlite.ru/sources/cards/js.png'>
   <img src='https://redlite.ru/sources/cards/ts.png'>
 </p>
 
