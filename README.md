@@ -8,20 +8,20 @@
 
 ## Languages:
 <p align='left'>
-  <img src='https://redlite.ru/sources/cards/cs.png' style="margin: 0 10px;">
-  <img src='https://redlite.ru/sources/cards/py.png' style="margin: 0 10px;">
-  <img src='https://redlite.ru/sources/cards/rs.png' style="margin: 0 10px;">
+  <img src='https://redlite.ru/sources/cards/py.png'>
+  <img src='https://redlite.ru/sources/cards/cs.png'>
+  <img src='https://redlite.ru/sources/cards/rs.png'>
 </p>
 
 <p align='left'>
-  <img src='https://redlite.ru/sources/cards/html.png' style="margin: 0 10px;">
-  <img src='https://redlite.ru/sources/cards/css.png' style="margin: 0 10px;">
-  <img src='https://redlite.ru/sources/cards/scss.png' style="margin: 0 10px;">
+  <img src='https://redlite.ru/sources/cards/html.png'>
+  <img src='https://redlite.ru/sources/cards/css.png'>
+  <img src='https://redlite.ru/sources/cards/scss.png'>
 </p>
 
 <p align='left'>
-  <img src='https://redlite.ru/sources/cards/js.png' style="margin: 0 10px;">
-  <img src='https://redlite.ru/sources/cards/ts.png' style="margin: 0 10px;">
+  <img src='https://redlite.ru/sources/cards/js.png'>
+  <img src='https://redlite.ru/sources/cards/ts.png'>
 </p>
 
 ㅤ
