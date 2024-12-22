@@ -8,20 +8,20 @@
 
 ## Languages:
 <p align='left'>
-  <img src='https://redlite.ru/sources/cards/py.png'>
-  <img src='https://redlite.ru/sources/cards/cs.png'>
-  <img src='https://redlite.ru/sources/cards/rs.png'>
+  <img src='https://redlite.ru/sources/cards/py1.png'>
+  <img src='https://redlite.ru/sources/cards/cs1.png'>
+  <img src='https://redlite.ru/sources/cards/rs1.png'>
 </p>
 
 <p align='left'>
-  <img src='https://redlite.ru/sources/cards/html.png'>
-  <img src='https://redlite.ru/sources/cards/css.png'>
-  <img src='https://redlite.ru/sources/cards/scss.png'>
+  <img src='https://redlite.ru/sources/cards/html1.png'>
+  <img src='https://redlite.ru/sources/cards/css1.png'>
+  <img src='https://redlite.ru/sources/cards/scss1.png'>
 </p>
 
 <p align='left'>
-  <img src='https://redlite.ru/sources/cards/js.png'>
-  <img src='https://redlite.ru/sources/cards/ts.png'>
+  <img src='https://redlite.ru/sources/cards/js1.png'>
+  <img src='https://redlite.ru/sources/cards/ts1.png'>
 </p>
 
 ㅤ
