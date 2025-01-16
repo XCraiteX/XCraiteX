@@ -21,7 +21,7 @@
 
 ## Editors & IDE
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![RustRover](https://img.shields.io/badge/RustRover-143?style=for-the-badge&logo=jetbrains&logoColor=ffffff&color=a10000&labelColor=ff003d)
+![RustRover](https://img.shields.io/badge/Rust%Rover-143?style=for-the-badge&logo=jetbrains&logoColor=ffffff&color=a10000&labelColor=ff003d)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 <!--![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)-->
 
