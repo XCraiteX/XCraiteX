@@ -1,9 +1,9 @@
 ## Hobbies  
-- 🎮 **Game Development**  
+- 🎮 **Game Development**
+- ⚡️ **Creatin RESTful API**
 - 🌐 **Writing Websites & Web Apps**  
 - 🤖 **Creating Telegram & Discord Bots**  
 - 🛠️ **Developing Useful Programs**
-- 🦠 **Viruses Development**
 - 🖋️ **Writing Poems & Books** 
 
 ## Favourite Langs & Tools
