@@ -1,6 +1,6 @@
 ## Hobbiesﾠ[![wakatime](https://wakatime.com/badge/user/c21668d3-51e5-4893-9cd6-075b0b9a36c8.svg)](https://wakatime.com/@c21668d3-51e5-4893-9cd6-075b0b9a36c8)
 - 🎮 **Game Development**
-- ⚡️ **Creatin RESTful API**
+- 🎯 **Speedcubing & 3D Puzzles**
 - 🌐 **Writing Websites & Web Apps**  
 - 🤖 **Creating Telegram & Discord Bots**  
 - 🛠️ **Developing Useful Programs**
