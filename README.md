@@ -1,9 +1,8 @@
 ## Hobbiesﾠ[![wakatime](https://wakatime.com/badge/user/c21668d3-51e5-4893-9cd6-075b0b9a36c8.svg)](https://wakatime.com/@c21668d3-51e5-4893-9cd6-075b0b9a36c8)
-- 🎮 **Game Development**
+- 🎮 **Game Development and usefull programs**
 - 🎯 **Speedcubing & 3D Puzzles**
 - 🌐 **Writing Websites & Web Apps**  
 - 🤖 **Creating Telegram & Discord Bots**  
-- 🛠️ **Developing Useful Programs**
 - 🖋️ **Writing Poems & Books** 
 
 ## Favourite Langs & Tools
@@ -34,3 +33,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Motion](https://img.shields.io/badge/-Motion-FFC131?style=for-the-badge&labelColor=000000)
+
+## Socials
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_profile)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your_server)
+[![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/your_profile)
