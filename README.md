@@ -32,6 +32,7 @@
 ## Frameworks
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Asyncio](https://img.shields.io/badge/-Asyncio-0099FF?style=for-the-badge&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=for-the-badge&labelColor=000000&logo=tauri&logoColor=FFC131)
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
