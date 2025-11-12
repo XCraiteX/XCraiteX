@@ -5,6 +5,11 @@
 - 🤖 **Creating Telegram & Discord Bots**  
 - 🖋️ **Writing Poems & Books** 
 
+## Socials
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xcraitex)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/mPKa2sUrmZ)
+[![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/xcraitex)
+
 ## Favourite Langs & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23a10000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -33,8 +38,3 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Motion](https://img.shields.io/badge/-Motion-FFC131?style=for-the-badge&labelColor=000000)
-
-## Socials
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xcraitex)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/mPKa2sUrmZ)
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/xcraitex)
